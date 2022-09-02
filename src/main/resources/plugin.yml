@@ -1,0 +1,9 @@
+name: ${project.name}
+version: ${project.version}
+main: ru.deelter.namehider.NameHider
+api-version: 1.16
+
+prefix: ${project.name}
+authors: [ DeelTer ]
+description: ${project.description}
+website: ${project.url}
