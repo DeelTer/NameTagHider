@@ -1,2 +1,2 @@
-# MyProject
- Simple project template with utils
+# NameHider
+Hide player names
